@@ -1,2 +1,2 @@
-# Documentation-Issue-Tracker
-Issue tracker for ClassicPress documentation.
+# ClassicPress Documentation Issue Tracker
+This repository helps track issues for ClassicPress documentation: [docs.classicpress.net](https://docs.classicpress.net)
